@@ -11,6 +11,8 @@ Note: This project is still in progress.
 * 2 motors
 * Motor driver board
 
-## Physical Build Steps
+## Build steps
 
-## Programming Steps
+### [Physical Build Steps]()
+
+### [Programming Steps]()
