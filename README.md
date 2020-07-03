@@ -12,23 +12,25 @@ Planned features for final BB8:
 * Raspberry Pi with pi camera will detect human shapes and instruct bot to follow first one it sees
 * Raspberry Pi will access a home assistant API and give real answers to questions. API output will be translated to morse code with pitch and frequency modulations to make it really sound like BB8.
 
-## Parts
+## Parts for Base
 
 * 13" Hamster Ball
-
-* Raspberry Pi 3B+
+<img src = "images/hamster_ball.jpg" width = 200>
 
 * Arduino Uno
+<img src = "images/DFRduino_uno.jpg" width = 200>
 
-* 4 wheels
-
-* 2 motors
+* 4 wheels and 2 DC motors
+<img src = "images/wheel_and_motor.jpg" width = 200>
 
 * L298N Motor driver board or similar
 <img src = "images/L298N_board.jpg" width = 200>
 
 * Battery pack
 
+## Parts for Head
+
+* Raspberry Pi 3B+
 
 ## Build steps
 
