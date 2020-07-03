@@ -32,6 +32,7 @@ Planned features for final BB8:
 ## Parts for Head
 
 * Raspberry Pi 3B+
+<img src = "images/raspberry_pi_3Bplus.jpg" width = 200>
 
 ## Build steps
 
