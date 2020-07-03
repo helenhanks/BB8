@@ -1,7 +1,7 @@
 # BB8
 2/3 scale BB8 robot as seen in Star Wars: The Force Awakens. 
 
-<img src = "images/BB8_screenshot.jpg" width = 650>
+<img src = "images/bb8.gif" width = 400>
 
 _Note: This project is still in progress._
 
