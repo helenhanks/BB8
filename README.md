@@ -28,7 +28,7 @@ Planned features for final BB8:
 * L298N Motor driver board or similar
 <img src = "images/L298N_board.jpg" width = 200>
 
-* Battery pack
+* 9V Battery pack for 6 AA batteries
 <img src = "images/battery_pack.jpg" width = 200>
 
 ### Parts for Head
