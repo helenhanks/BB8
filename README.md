@@ -35,9 +35,9 @@ Planned features for final BB8:
 
 ## Build steps
 
-### Physical Build Steps()
+### Physical Build Steps
 
-### Electronics Build Steps()
+### Electronics Build Steps
 I followed the intructions here: https://www.teachmemicro.com/use-l298n-motor-driver/
 
-### Programming Steps()
+### Programming Steps
