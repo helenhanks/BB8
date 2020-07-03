@@ -1,5 +1,5 @@
 # BB8
-Model BB8 robot as seen in Star Wars. 
+Model BB8 robot as seen in Star Wars: The Force Awakens. 
 
 _Note: This project is still in progress._
 
